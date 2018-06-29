@@ -3,3 +3,7 @@ venv
 .idea
 *.sw*
 *.xml
+Python/Python_annotations
+Python/.ipynb_checkpoints
+Postgresql/__pycache__
+Python/exercicios-python-hard-way/Untitled.ipynb
