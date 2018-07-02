@@ -1,7 +1,8 @@
 # What i'm learning
 
 - [**Git - Version Control Sistem**](https://github.com/DiegoMagg/learning-process/tree/master/Git) - Based on Pro Git by Scott Chacon and Ben Straub.
-- [**Python Version 3**](https://github.com/DiegoMagg/learning-process/tree/master/Python) - Based on book Learn Python3 The Hard Way, 3rd Edition by Zed A. Shaw.
+- [**Python, The Hard Way Exercises**](https://github.com/DiegoMagg/learning-process/tree/master/Python/exercicios-python-hard-way) - Based on book Learn Python3 The Hard Way, 3rd Edition by Zed A. Shaw.
+- [**Python3 Annotations**](https://github.com/DiegoMagg/learning-process/tree/master/Python/Python_Annotations) - Examples of python3 usage.
 
 
 # Thanks
