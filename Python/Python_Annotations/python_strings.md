@@ -1,5 +1,5 @@
-# Python - Working with methods
-Python version used - 3.6.5
+# Python - Working with Strings
+Python version used - 3.7.5
 To test and learn with the codes above, digit line by line, don't copy and paste.
 You can make a .py script or enter python3 on terminal to access python shell. 
 
