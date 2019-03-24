@@ -1,7 +1,7 @@
 ### 2 Props
 
 A maioria dos componentes podem ser personalizados no momento que são criados, com diferentes parâmetros. Esses parâmetros de criação são chamados de **props**.
-Um exemplo de componente básico do React Native é o <Image>. Quando você cria uma imagem, você pode usar um objeto chamado **source** para controlar qual imagem será exibida.
+Um exemplo de componente básico do React Native é o "<Image>". Quando você cria uma imagem, você pode usar um objeto chamado **source** para controlar qual imagem será exibida.
 
 
 ```javascript
@@ -67,4 +67,4 @@ Usando *nome* como prop, nos permite customizar o componente **Ola**. Neste caso
 
 Note que nos exemplos exitem customizações de estilo (prop **style** da tag <View>) muito similar ao css. Outra forma de definir o estilo é definindo a **prop** dentro da tag, ex: <View style={{flex: 1, justifyContent: 'center'}}></View> O <View> é util como container para outros componentes, controlando e estilo e layout.
 
-Com **props**, e os componentes básicos <Text>, <Image> e <View> é possível criar uma variedade de telas. Para saber como fazer seu aplicativo mudar ao longo do tempo, vamos aprender [states](https://github.com/DiegoMagg/learning-process/tree/master/React-Native/states).
+Com **props**, e os componentes básicos <Text>, <Image> e <View> é possível criar uma variedade de telas. Para saber como fazer seu aplicativo mudar ao longo do tempo, vamos aprender [states](https://github.com/DiegoMagg/learning-process/tree/master/React-Native/Basico/3-states.md).

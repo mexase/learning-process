@@ -57,4 +57,4 @@ const style = StyleSheet.create({
 ```
 Eu uma aplicação real, provavelmente o intervalo não será por tempo, e sim em situações como um novo dado no servidor, ou uma entrada de usuário. Você poderá usar um container de estado como o Redux ou Mobx para controlar seu fluxo de dados. Neste caso use o Redux ou Mobx para modificar seus estado além de chamar o **setState** diretamente.
 
-Quando o setState é chamado, o PiscaApp terá seu componente re-renderizado. Neste ponto você deve estar cansado de ver tanto preto no branco. Hora de deixar as coisas mais bonitas. Vamos aprender sobre [estilos](https://github.com/DiegoMagg/learning-process/tree/master/React-Native/estilos).
+Quando o setState é chamado, o PiscaApp terá seu componente re-renderizado. Neste ponto você deve estar cansado de ver tanto preto no branco. Hora de deixar as coisas mais bonitas. Vamos aprender sobre [estilos](https://github.com/DiegoMagg/learning-process/blob/master/React-Native/Basico/4-Styles.md).
